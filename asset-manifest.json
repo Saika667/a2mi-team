@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/a2mi-team/static/js/main.f7488d92.js",
+    "static/js/787.47f37476.chunk.js": "/a2mi-team/static/js/787.47f37476.chunk.js",
+    "static/media/background-left.png": "/a2mi-team/static/media/background-left.8b01553cf0534d4a21bd.png",
+    "static/media/background-right.png": "/a2mi-team/static/media/background-right.d0dd2166cf276145dd35.png",
+    "static/media/banner.jpg": "/a2mi-team/static/media/banner.e19acf2e6768ee513a49.jpg",
+    "static/media/cercle-slider.png": "/a2mi-team/static/media/cercle-slider.dacb00311a37f2358337.png",
+    "static/media/echo-mer.png": "/a2mi-team/static/media/echo-mer.2811ab9b8da9e5c64444.png",
+    "static/media/logo.png": "/a2mi-team/static/media/logo.6418e9be6112cd0fdf11.png",
+    "index.html": "/a2mi-team/index.html",
+    "main.f7488d92.js.map": "/a2mi-team/static/js/main.f7488d92.js.map",
+    "787.47f37476.chunk.js.map": "/a2mi-team/static/js/787.47f37476.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f7488d92.js"
+  ]
+}
